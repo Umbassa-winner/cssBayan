@@ -1,1 +1,1 @@
-https://umbassa-winner.github.io/cssBayan/cssBayan/index.html
+https://umbassa-winner.github.io/cssBayan/index.html
